@@ -16,7 +16,7 @@
 ## 動作環境
 Windows XP以降（※ Windows10でのみ動作確認）
 ## 使い方
-PopnChartCalculator.exeを実行すれば「ポップン譜面作成用計算機」が動作します。
+PopnChartCalculator\obj\Releaseフォルダ内にある、PopnChartCalculator.exeを実行すれば「ポップン譜面作成用計算機」が動作します。
 ## インストール方法（＆アンインストール方法）
 右上のダウンロードボタンからダウンロードしてください。
 アンインストールは解凍したフォルダを消すだけで大丈夫です。
