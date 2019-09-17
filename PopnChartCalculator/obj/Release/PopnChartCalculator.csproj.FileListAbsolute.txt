@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\bin\Release\PopnChartCalculator.exe.config
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\bin\Release\PopnChartCalculator.exe
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\bin\Release\PopnChartCalculator.pdb
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\obj\Release\PopnChartCalculator.PopnChartCaluclatorForm.resources
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\obj\Release\PopnChartCalculator.Properties.Resources.resources
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\obj\Release\PopnChartCalculator.csproj.GenerateResource.cache
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\obj\Release\PopnChartCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\obj\Release\PopnChartCalculator.exe
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\obj\Release\PopnChartCalculator.pdb
+D:\Documents\Visual Studio Projects\PopnChartCalculator\PopnChartCalculator\obj\Release\PopnChartCalculator.csprojAssemblyReference.cache
