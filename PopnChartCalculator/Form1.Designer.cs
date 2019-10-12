@@ -41,10 +41,10 @@
             this.pixel16thNotesListBox_ContextMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.copyPixel16thNotesListBoxItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pixel128thNotesListBox = new System.Windows.Forms.ListBox();
-            this.pixel16thNotesListBox_ExplainLabel = new System.Windows.Forms.Label();
-            this.pixel128thNotesListBox_ExplainLabel = new System.Windows.Forms.Label();
             this.pixel128thNotesListBox_ContextMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.copyPixel128thNotesListBoxItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pixel16thNotesListBox_ExplainLabel = new System.Windows.Forms.Label();
+            this.pixel128thNotesListBox_ExplainLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.DisplayPixelWidth_NumericUpDown)).BeginInit();
             this.pixel16thNotesListBox_ContextMenuStrip.SuspendLayout();
             this.pixel128thNotesListBox_ContextMenuStrip.SuspendLayout();
@@ -181,6 +181,21 @@
             this.pixel128thNotesListBox.Size = new System.Drawing.Size(436, 596);
             this.pixel128thNotesListBox.TabIndex = 8;
             // 
+            // pixel128thNotesListBox_ContextMenuStrip
+            // 
+            this.pixel128thNotesListBox_ContextMenuStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.pixel128thNotesListBox_ContextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.copyPixel128thNotesListBoxItem});
+            this.pixel128thNotesListBox_ContextMenuStrip.Name = "pixel128thNotesListBox_ContextMenuStrip";
+            this.pixel128thNotesListBox_ContextMenuStrip.Size = new System.Drawing.Size(225, 28);
+            // 
+            // copyPixel128thNotesListBoxItem
+            // 
+            this.copyPixel128thNotesListBoxItem.Name = "copyPixel128thNotesListBoxItem";
+            this.copyPixel128thNotesListBoxItem.Size = new System.Drawing.Size(224, 24);
+            this.copyPixel128thNotesListBoxItem.Text = "クリップボードへ値をコピー";
+            this.copyPixel128thNotesListBoxItem.Click += new System.EventHandler(this.copyPixel128thNotesListBoxItem_Click);
+            // 
             // pixel16thNotesListBox_ExplainLabel
             // 
             this.pixel16thNotesListBox_ExplainLabel.AutoSize = true;
@@ -199,25 +214,10 @@
             this.pixel128thNotesListBox_ExplainLabel.ForeColor = System.Drawing.SystemColors.HotTrack;
             this.pixel128thNotesListBox_ExplainLabel.Location = new System.Drawing.Point(390, 113);
             this.pixel128thNotesListBox_ExplainLabel.Name = "pixel128thNotesListBox_ExplainLabel";
-            this.pixel128thNotesListBox_ExplainLabel.Size = new System.Drawing.Size(455, 25);
+            this.pixel128thNotesListBox_ExplainLabel.Size = new System.Drawing.Size(446, 25);
             this.pixel128thNotesListBox_ExplainLabel.TabIndex = 10;
-            this.pixel128thNotesListBox_ExplainLabel.Text = "128分が何個あるか（+キーの必要入力回数）";
+            this.pixel128thNotesListBox_ExplainLabel.Text = "128分が何個あるか（何ドットのズレがあるか）";
             this.pixel128thNotesListBox_ExplainLabel.TextAlign = System.Drawing.ContentAlignment.TopRight;
-            // 
-            // pixel128thNotesListBox_ContextMenuStrip
-            // 
-            this.pixel128thNotesListBox_ContextMenuStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.pixel128thNotesListBox_ContextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.copyPixel128thNotesListBoxItem});
-            this.pixel128thNotesListBox_ContextMenuStrip.Name = "pixel128thNotesListBox_ContextMenuStrip";
-            this.pixel128thNotesListBox_ContextMenuStrip.Size = new System.Drawing.Size(225, 28);
-            // 
-            // copyPixel128thNotesListBoxItem
-            // 
-            this.copyPixel128thNotesListBoxItem.Name = "copyPixel128thNotesListBoxItem";
-            this.copyPixel128thNotesListBoxItem.Size = new System.Drawing.Size(224, 24);
-            this.copyPixel128thNotesListBoxItem.Text = "クリップボードへ値をコピー";
-            this.copyPixel128thNotesListBoxItem.Click += new System.EventHandler(this.copyPixel128thNotesListBoxItem_Click);
             // 
             // PopnChartCaluclatorForm
             // 
