@@ -14,7 +14,7 @@
 （小数点以下まで細かく表示されるのでこの値を参考にしながら四捨五入するか切り捨てるかなどは、各自で決めてください。）
 
 ## デモ
-![demo](https://user-images.githubusercontent.com/55413970/65009020-387a7b80-d946-11e9-92ea-6617682b44c0.gif)
+![ポップン譜面作成用計算機-2019-10-13-11-26-51](https://user-images.githubusercontent.com/55413970/66710095-8307e000-edac-11e9-8cac-0c9755ddd418.gif)
 
 ## 動作環境
 Windows XP以降（※ Windows10でのみ動作確認）
